@@ -10,29 +10,5 @@
 	{
 	"text": "The biggest problem we run into is going, ‘This is who I am, this is what I’m like, this is how I function’ while failing to notice that you don’t do that anymore",
         "author": "Neil Gaiman"
-	},
-	{
-	"text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakens",
-        "author": "C.G. Jung"
-	},
-    {
-	"text": "Don’t ever solve the same the same problem three times in a row. If you have the same question or problem three times in a row, systematize it",
-        "author": "Joel Runyun"
-	},
-    {
-	"text": "Time is the king of all men, he is their parent and their grave, and gives them what he will and not what they crave",
-        "author": "Pericles"
-	},
-    {
-	"text": "Nothing can be loved or hated unless it is first understood",
-        "author": "Leonardo DaVinci"
-	},
-    {
-	"text": "Ability is what you are capable of, motivation determines what you do, but attitude determines how well you do it",
-        "author": "Lou Holtz"
-	},
-    {
-	"text": "Wealth is liberty - liberty to seek recreation, liberty to enjoy life, liberty to improve the mind: it is disposable time and nothing more",
-        "author": "Karl Marx"
 	}
 ]
