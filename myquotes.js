@@ -34,5 +34,9 @@
     {
 	"text": "Wealth is liberty - liberty to seek recreation, liberty to enjoy life, liberty to improve the mind: it is disposable time and nothing more",
         "author": "Karl Marx"
+	},
+	{
+	"text": "Don’t be the person who says yes with their mouth but no with their actions.",
+        "author": "Ryan Holiday"
 	}
 ]
