@@ -39,36 +39,4 @@
 	"text": "Don’t be the person who says yes with their mouth but no with their actions.",
         "author": "Ryan Holiday"
 	},
-	{
-	"text": "It's easy to impress me. I don't need a fancy party to be happy. Just good friends, good food, and good laughs. I'm happy. I'm satisfied. I'm content.",
-        "author": "Maria Sharapova"
-	},
-	{	
-	"text": "We cross our bridges when we come to them and burn them behind us, with nothing to show for our progress except a memory of the smell of smoke, and a presumption that once our eyes watered.",
-        "author": "Tom Stoppard"
-	},
-	{	
-	"text": "Your assumptions are your windows on the world. Scrub them off every once and a while, or the light won't come in.",
-        "author": "Alan Alda"
-	},
-	{	
-	"text": "Murder most foul, as in the best it it; But this most foul, strange, and unnatural.",
-        "author": "William Shakespeare"
-	},
-	{	
-	"text": "I said tonight I wanted to talk to you about love. Look into your hearts. This is our country. This is our future. These are our children and grandchildren. You can trust Mitt.",
-        "author": "Ann Romney"
-	},
-	{
-	"text": "I'm sure not afraid of success and I've learned not to be afraid of failure. The only thing I'm afraid of now is of being someone I don't like much.",
-        "author": "Anna Quindlen"
-	},
-	{	
-	"text": "Skepticism is the chastity of the intellect, and it is shameful to surrender it too soon or to the first comer.",
-        "author": "George Santayana"
-	},
-	{	
-	"text": "The pen is mightier than the sword if the sword is very short, and the pen is very sharp.",
-        "author": "Terry Pratchett"
-	}
 ]
