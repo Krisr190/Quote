@@ -38,5 +38,5 @@
 	{
 	"text": "Don’t be the person who says yes with their mouth but no with their actions.",
         "author": "Ryan Holiday"
-	},
+	}
 ]
