@@ -16,10 +16,6 @@
         "author": "C.G. Jung"
 	},
     {
-	"text": "The truth is revealed by removing things which stand in its light, an art, not unlike sculpture, in which the artist creates, not by building, but by hacking away",
-        "author": "Alan Watts"
-	},
-    {
 	"text": "Don’t ever solve the same the same problem three times in a row. If you have the same question or problem three times in a row, systematize it",
         "author": "Joel Runyun"
 	},
