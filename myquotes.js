@@ -22,5 +22,17 @@
     {
 	"text": "Time is the king of all men, he is their parent and their grave, and gives them what he will and not what they crave",
         "author": "Pericles"
+	},
+	{
+	"text": "Nothing can be loved or hated unless it is first understood",
+        "author": "Leonardo DaVinci"
+	},
+    {
+	"text": "Ability is what you are capable of, motivation determines what you do, but attitude determines how well you do it",
+        "author": "Lou Holtz"
+	},
+    {
+	"text": "Wealth is liberty - liberty to seek recreation, liberty to enjoy life, liberty to improve the mind: it is disposable time and nothing more",
+        "author": "Karl Marx"
 	}
 ]
